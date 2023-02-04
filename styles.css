@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+
+    box-sizing: inherit;
+}
+
+
+.nav-container {
+
+    background-color: #484848;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+
+.logo-app{{
+    width: 3.35rem;
+    margin: 1rem 0;
+}     
+/*
+ div {
+    display: flex;
+
+
+ }
+
+ h1 {
+
+    margin-left 1rem;
+ }
+
+
+
+ div h1 {
+
+        color: red;
+ }
+
+ h2, h3 {
+
+    color: green;
+ }
+ */
